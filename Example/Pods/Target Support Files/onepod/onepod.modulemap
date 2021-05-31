@@ -1,0 +1,6 @@
+framework module onepod {
+  umbrella header "onepod-umbrella.h"
+
+  export *
+  module * { export * }
+}
